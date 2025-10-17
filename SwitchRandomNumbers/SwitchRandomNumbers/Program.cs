@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Genereerib numbreid ühgest kuni kuueni");
+            Console.WriteLine("Genereerib numbreid ühest kuni kuueni");
 
             //kõik kuus numbrit tuleb ära käsitleda switchiga
 
